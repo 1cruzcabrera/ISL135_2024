@@ -1,1 +1,4 @@
+document.querySelector("button").addEventListener("click", function() {
+    document.body.textContent = "¡El botón ha sido presionado!";
+});
 
